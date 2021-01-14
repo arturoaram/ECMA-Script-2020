@@ -1,0 +1,21 @@
+{
+  "name": "ecma-script-2020",
+  "version": "1.0.0",
+  "description": "Practice for Ecma Script 2020",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arturoaram/ECMA-Script-2020.git"
+  },
+  "author": "Arturo Angeles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arturoaram/ECMA-Script-2020/issues"
+  },
+  "homepage": "https://github.com/arturoaram/ECMA-Script-2020#readme"
+}
